@@ -336,7 +336,3 @@ Return to Student Evaluation page, and open the console of your browser. If you 
 ### Step 5
 
 The grading starts。Current, the user will not be informed of the end of evaluation。If you want to terminate the process, simply **refresh the page**.
-
-## Credit
-
-[@xx01cyx](https://github.com/xx01cyx) came up with the idea and implemented the auto version. She's AWESOME.
